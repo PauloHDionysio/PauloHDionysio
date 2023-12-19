@@ -20,10 +20,10 @@ Aqui está algumas informações sobre mim:
 
   ### Minhas Estatísticas:  
 
-  <div>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=swift">
-    <img height = "180em" width = "300em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&langs_count=16&theme=swift">
-  </div>
+  <p align = "center">
+    <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=swift">
+    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=compact">
+  </p>
 
 ##
 
