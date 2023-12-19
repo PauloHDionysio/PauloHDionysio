@@ -22,7 +22,7 @@ Aqui está algumas informações sobre mim:
 
   <div>
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=swift">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&langs_count=16&theme=swift">
+    <img height = "300em" width = "300" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&langs_count=16&theme=swift">
   </div>
 
 ##
