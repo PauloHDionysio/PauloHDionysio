@@ -37,5 +37,6 @@ Aqui está algumas informações sobre mim:
     <img align = "center" alt = "PhD-CSS" height = "70" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align = "center" alt = "PhD-JS" height = "70" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align = "center" alt = "PhD-Python" height = "70" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    
+    <img align = "center" alt = "PhD-Pandas" height = "70" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
   </div>
