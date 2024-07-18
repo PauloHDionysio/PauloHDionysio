@@ -1,4 +1,4 @@
-### Hi my name is Paulo Henrique Dionysio 👋
+### Hi, my name is Paulo Henrique Dionysio 👋
 
 Here is some information about me:
 
