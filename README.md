@@ -24,12 +24,11 @@ Aqui está algumas informações sobre mim:
   <p align = "center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=blue_navy&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=FFFFFF"
+        srcset="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=blue_navy&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=2F80ED&title-color=2F80ED"
         media="(prefers-color-scheme: dark)"
       />
-    <img src="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true" />
     </picture>
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=FFFFFF">
+    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=2F80ED&title-color=2F80ED">
   </p>
 
 ##
