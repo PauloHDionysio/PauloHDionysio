@@ -27,6 +27,7 @@ Aqui está algumas informações sobre mim:
         srcset="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=blue_navy&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=FFFFFF"
         media="(prefers-color-scheme: dark)"
       />
+    <img src="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true" />
     </picture>
     <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=FFFFFF">
   </p>
