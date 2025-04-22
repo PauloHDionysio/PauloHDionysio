@@ -24,7 +24,7 @@ Aqui está algumas informações sobre mim:
   <p align = "center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=gradient"
         media="(prefers-color-scheme: dark)"
       />
       <source
