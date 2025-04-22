@@ -6,6 +6,7 @@ Here is some information about me:
 - 📫 How to reach me: 
     phcd.martins@unesp.br (institutional email)
     dionysiopaulo@gmail.com (professional email)
+- 🏣 I also work at a technology company (Nexum Tecnologia)
 
 ### Olá, meu nome é Paulo Henrique Dionysio 👋
 
@@ -15,7 +16,7 @@ Aqui está algumas informações sobre mim:
 - 📫 Como pode me encontrar:
     phcd.martins@unesp.br (email institucional)
     dionysiopaulo@gmail.com (email profissional)
-
+- 🏣 Eu também trabalho em uma empresa de tecnologia (Nexum Tecnologia)
 ##
 
   ### Minhas Estatísticas:  
@@ -23,6 +24,7 @@ Aqui está algumas informações sobre mim:
   <p align = "center">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=swift">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=compact">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=PauloHDionysio)">
   </p>
 
 ##
