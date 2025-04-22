@@ -28,7 +28,7 @@ Aqui está algumas informações sobre mim:
         media="(prefers-color-scheme: dark)"
       />
     </picture>
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=2F80ED&title-color=2F80ED">
+    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20&text_color=2F80ED&title-color=2F80ED"/>
   </p>
 
 ##
