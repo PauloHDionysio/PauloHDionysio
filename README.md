@@ -23,7 +23,7 @@ Aqui está algumas informações sobre mim:
 
   <p align = "center">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=Gradient">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=Gradient">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=PauloHDionysio">
   </p>
 
