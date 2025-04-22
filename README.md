@@ -33,8 +33,7 @@ Aqui está algumas informações sobre mim:
       />
       <img src="https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true" />
     </picture>
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=PauloHDionysio&show_icons=true&theme=Gradient">
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut">
+    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDionysio&layout=donut&icon_color=8300B7&bg_color=222222&border_color=8300B7&locale=pt-br&hide_border=true&cache_seconds=86400&border_radius=20">
   </p>
 
 ##
