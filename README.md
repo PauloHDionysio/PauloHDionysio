@@ -3,20 +3,20 @@
 Here is some information about me:
 
 - 🌱 I’m currently attending college (computer science - UNESP Bauru)
+- 🏣 I'm mobile developer (Flutter and React Native)
 - 📫 How to reach me: 
     phcd.martins@unesp.br (institutional email)
     dionysiopaulo@gmail.com (professional email)
-- 🏣 I also work at a technology company (Nexum Tecnologia) - Process Developer
 
 ### Olá, meu nome é Paulo Henrique Dionysio 👋
 
 Aqui está algumas informações sobre mim:
 
 - 🌱 Atualmente estou cursando a faculdade (Ciência da Computação - UNESP Bauru)
+- 🏣 Eu sou desenvolvedor mobile (Flutter e React Native)
 - 📫 Como pode me encontrar:
     phcd.martins@unesp.br (email institucional)
     dionysiopaulo@gmail.com (email profissional)
-- 🏣 Eu também trabalho em uma empresa de tecnologia (Nexum Tecnologia) - Desenvolvedor de Processos
 ##
 
   ### Minhas Estatísticas:  
